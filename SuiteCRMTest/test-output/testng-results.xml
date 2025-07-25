@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-25T20:33:04 IST" name="Default suite" finished-at="2025-07-25T20:33:45 IST" duration-ms="40588">
+    <groups>
+    </groups>
+    <test started-at="2025-07-25T20:33:04 IST" name="Default test" finished-at="2025-07-25T20:33:45 IST" duration-ms="40588">
+      <class name="com.suitecrm.testcases.LoginPageTestWithDataProvider">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.suitecrm.testcases.LoginPageTestWithDataProvider@2925bf5b]" started-at="2025-07-25T20:33:05 IST" name="setUp" finished-at="2025-07-25T20:33:12 IST" duration-ms="7416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTestd(java.lang.String,java.lang.String)[pri:0, instance:com.suitecrm.testcases.LoginPageTestWithDataProvider@2925bf5b]" started-at="2025-07-25T20:33:12 IST" name="loginTestd" data-provider="testdata" finished-at="2025-07-25T20:33:16 IST" duration-ms="3764" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[will]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[will]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.suitecrm.testcases.LoginPageTestWithDataProvider@2925bf5b]" started-at="2025-07-25T20:33:16 IST" name="tearDown" finished-at="2025-07-25T20:33:16 IST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.suitecrm.testcases.LoginPageTestWithDataProvider@2925bf5b]" started-at="2025-07-25T20:33:16 IST" name="setUp" finished-at="2025-07-25T20:33:18 IST" duration-ms="1883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTestd(java.lang.String,java.lang.String)[pri:0, instance:com.suitecrm.testcases.LoginPageTestWithDataProvider@2925bf5b]" started-at="2025-07-25T20:33:18 IST" name="loginTestd" data-provider="testdata" finished-at="2025-07-25T20:33:29 IST" duration-ms="10871" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.suitecrm.testcases.LoginPageTestWithDataProvider@2925bf5b]" started-at="2025-07-25T20:33:29 IST" name="tearDown" finished-at="2025-07-25T20:33:29 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.suitecrm.testcases.LoginPageTestWithDataProvider@2925bf5b]" started-at="2025-07-25T20:33:29 IST" name="setUp" finished-at="2025-07-25T20:33:38 IST" duration-ms="8594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTestd(java.lang.String,java.lang.String)[pri:0, instance:com.suitecrm.testcases.LoginPageTestWithDataProvider@2925bf5b]" started-at="2025-07-25T20:33:38 IST" name="loginTestd" data-provider="testdata" finished-at="2025-07-25T20:33:44 IST" duration-ms="5761" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestd -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.suitecrm.testcases.LoginPageTestWithDataProvider@2925bf5b]" started-at="2025-07-25T20:33:44 IST" name="tearDown" finished-at="2025-07-25T20:33:45 IST" duration-ms="1081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.suitecrm.testcases.LoginPageTestWithDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

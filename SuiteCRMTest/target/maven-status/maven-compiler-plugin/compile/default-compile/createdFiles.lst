@@ -1,0 +1,5 @@
+com\suitecrm\pages\LoginPage.class
+com\suitecrm\utilities\Constant.class
+com\suitecrm\utilities\Utility.class
+com\suitecrm\utilities\WebEventListner.class
+com\suitecrm\testbase\TestBase.class
